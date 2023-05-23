@@ -1,0 +1,5 @@
+total 5
+drwxr-xr-x 1 User 197121  0 May 23 22:50 ./
+drwxr-xr-x 1 User 197121  0 May 23 22:49 ../
+-rw-r--r-- 1 User 197121 19 May 23 22:50 README.md
+-rw-r--r-- 1 User 197121  0 May 23 22:50 output.txt
